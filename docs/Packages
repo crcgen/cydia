@@ -1,0 +1,14 @@
+Package: com.everettjf.AppleTraceLoader
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/AppleTrace/com.everettjf.AppleTraceLoader_0.1-1_iphoneos-arm.deb
+Size: 80768
+MD5sum: e527dc8baa953ddff00d7266a4dce5ab
+SHA1: ee7ad4984cd4735f6c5cf8b37f29e8525f8a5537
+SHA256: d4c23234848d547fe11cce6f433c23c300b923b58bd69f3972b31822fcf19947
+Section: System
+Priority: optional
+Author: everettjf
+Name: AppleTraceLoader
+

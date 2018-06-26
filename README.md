@@ -2,5 +2,5 @@
 
 1. open cydia
 2. software source -> edit -> add
-3. cydia/apt: https://everettjf.github.io/cydia/
+3. cydia/apt: http://7we.win/cydia/
 

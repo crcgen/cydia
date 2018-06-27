@@ -1,14 +1,18 @@
 Package: com.everettjf.AppleTraceLoader
 Version: 0.1-1
 Architecture: iphoneos-arm
+Maintainer: everettjf
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/AppleTrace/com.everettjf.AppleTraceLoader_0.1-1_iphoneos-arm.deb
-Size: 80768
-MD5sum: e527dc8baa953ddff00d7266a4dce5ab
-SHA1: ee7ad4984cd4735f6c5cf8b37f29e8525f8a5537
-SHA256: d4c23234848d547fe11cce6f433c23c300b923b58bd69f3972b31822fcf19947
+Size: 77438
+MD5sum: 424276fb67d6e6b1711ae6f25319db10
+SHA1: 901d3e74a62d43f2a6c6ba1d66669ce4c09980e6
+SHA256: 08e0952369a100e5f31923970726fc38ebcdf8f3758c4ad62d5ff55a91e3f42d
 Section: System
 Priority: optional
+Homepage: https://everettjf.github.io
+Description: Objective C message tracing tool for iOS/macOS
 Author: everettjf
+Depiction: iOS/Android/Windows Developer & Interested in Reverse Engineering and App Performance
 Name: AppleTraceLoader
 
